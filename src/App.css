@@ -4,6 +4,10 @@ padding:0;
 box-sizing:boder-box;
 }
 @font-face {
+  font-family: gilroy;
+  src: url('./assets/Gilroy.ttf');
+}
+@font-face {
   font-family: dmsans;
   src: url('./assets/rP2Cp2ywxg089UriAWCrCBimCw.ttf');
 }
